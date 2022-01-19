@@ -12,4 +12,4 @@ I am a PhD candidate at the [University of Virginia](http://www.virginia.edu/), 
 
 Research Interests
 ---
-I have abundant interest in **Applied Mathematics**.
+I have abundant interest in **Computational Materials Science** and **Applied Mathematics**.
