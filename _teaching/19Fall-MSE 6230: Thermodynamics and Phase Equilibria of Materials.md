@@ -1,5 +1,5 @@
 ---
-title: "Teaching Assistant of 19Fall-MSE 6230: Thermodynamics and Phase Equilibria of Materials.md"
+title: "Teaching Assistant of 19Fall-MSE 6230: Thermodynamics and Phase Equilibria of Materials"
 collection: teaching
 type: "Graduate course"
 permalink: /teaching/19FallMSE6230
