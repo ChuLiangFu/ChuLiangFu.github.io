@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : # &twitter
 facebook:
   username               :
   app_id                 :
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Chu-Liang Fu"
   avatar           : "profile.png"
-  bio              : "PhD condidate@UVA"
+  bio              : "PhD condidate @UVA"
   location         : "Charlottesvile"
   employer         :
   pubmed           :
