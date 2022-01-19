@@ -1,11 +1,11 @@
 ---
-title: "Teaching experience 2"
+title: "20SpringMSE 2090: Introduction to Materials Science"
 collection: teaching
 type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+permalink: /teaching/20SpringMSE2090
+venue: "UVA, Department"
+date: 2020-01--2020-5
+location: "Charlottesville, US"
 ---
 
 This is a description of a teaching experience. You can use markdown like any other post.
