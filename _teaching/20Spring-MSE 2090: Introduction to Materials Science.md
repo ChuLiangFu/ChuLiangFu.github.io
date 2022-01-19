@@ -1,5 +1,5 @@
 ---
-title: "Teaching Assistant of 20SpringMSE 2090: Introduction to Materials Science"
+title: "Teaching Assistant of 20Spring-MSE 2090: Introduction to Materials Science"
 collection: teaching
 type: "Undergraduate"
 permalink: /teaching/20SpringMSE2090
