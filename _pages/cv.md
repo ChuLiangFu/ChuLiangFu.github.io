@@ -29,8 +29,8 @@ Creations
 [//]: <> ({% include archive-single-cv.html %})
 [//]: <> ({% endfor %}</ul>)
 * First-Principle-based Modeling:
-  Kang Wang, Du Cheng, **Chu-Liang Fu**, and Bi-Cheng Zhou*, "First-principles investigation of the phase stability and early stages of precipitation in Mg-Sn alloys"  Physical Review Materials 4, 013606 (2020)
-  **Chu-Liang Fu**, Mingda Li* “Oscillatory deviations from Matthiessen’s rule due to interacting dislocations.” J. Phys. Condens Matter 29, 325702 (2017)
+  * Kang Wang, Du Cheng, **Chu-Liang Fu**, and Bi-Cheng Zhou*, "First-principles investigation of the phase stability and early stages of precipitation in Mg-Sn alloys"  Physical Review Materials 4, 013606 (2020)
+  * **Chu-Liang Fu**, Mingda Li* “Oscillatory deviations from Matthiessen’s rule due to interacting dislocations.” J. Phys. Condens Matter 29, 325702 (2017)
 
 * Data-Driven Methods:
 
@@ -58,7 +58,7 @@ Selected Coursework
   * Coursework at UVA: 
     * Fundamental Physics-driven modeling: Statistical Mechanics, Quantum Electronics(audit)
     * Materials Science-driven modeling: Electronic and Crystal Structure of Materials (Symmetry), Defects and Microstructure in Materials (Broken Symmetry), Thermodynamics and Phase Equilibria of Materials (Equilibrium), Kinetics of Transport and Transformations in Materials (Transformation)
-    * Coursework at Coursera: Density Functional Theory
+  * Coursework at Coursera: Density Functional Theory
 
 * Data-Driven Method:
   * Coursework at YNU: Mathematical Statistics, Pattern Recognition
