@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/20SpringMSE2090
 venue: "UVA, MSE"
-date: 2020-01--2020-5
+date: 2020
 location: "Charlottesville, US"
 ---
 
