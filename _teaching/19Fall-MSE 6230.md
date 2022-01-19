@@ -4,7 +4,7 @@ collection: teaching
 type: "Graduate course"
 permalink: /teaching/19FallMSE6230
 venue: "UVA, MSE"
-date: 2019-8--2019-12
+date: 2019
 location: "Charlottesville, US"
 ---
 
