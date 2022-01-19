@@ -3,7 +3,7 @@ title: "20SpringMSE 2090: Introduction to Materials Science"
 collection: teaching
 type: "Workshop"
 permalink: /teaching/20SpringMSE2090
-venue: "UVA, Department"
+venue: "UVA, MSE"
 date: 2020-01--2020-5
 location: "Charlottesville, US"
 ---
