@@ -1,7 +1,7 @@
 ---
-title: "20SpringMSE 2090: Introduction to Materials Science"
+title: "Teaching Assistant of 20SpringMSE 2090: Introduction to Materials Science"
 collection: teaching
-type: "Workshop"
+type: "Undergraduate"
 permalink: /teaching/20SpringMSE2090
 venue: "UVA, MSE"
 date: 2020-01--2020-5
