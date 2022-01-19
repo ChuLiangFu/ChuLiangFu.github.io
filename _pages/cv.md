@@ -12,10 +12,10 @@ redirect_from:
 Education
 ======
 * Ph.D in Materials Science, University of Virginia(UVA), 2023 (expected)
-  Advisor: Prof. Bi-Cheng Zhou
+  * Advisor: Prof. Bi-Cheng Zhou
 * B.S. in Mathematics and Applied Mathematics, Yunnan University(YNU), 2017
-  Thesis: Elliptic Partial Differential Equations: the Application of Calderón-Zygmund Lemma in Hölder Estimates
-  Advisor: Prof. Yuanhong Zhi & Prof. Zhou Wei
+  * Thesis: Elliptic Partial Differential Equations: the Application of Calderón-Zygmund Lemma in Hölder Estimates
+  * Advisor: Prof. Yuanhong Zhi & Prof. Zhou Wei
 
 Research Experience
 ======
