@@ -77,12 +77,12 @@ Selected Coursework
 Phase Transformations, Magnetism and Magnetic Materials
 
 * Fundamental Mathematics:
-  * Course at YNU:
+  * Coursework at YNU:
     * Fundamental: Advanced Mathematics I&II, Mathematical Analysis I-III, Advanced Algebra I&II
     * Analysis: Real Analysis, Complex Analysis, Functional Analysis, Probability Theory, Ordinary Differential Equations, Mathematical Physics Equations (PDE), Mini-Course on Elliptic PDEs by Prof. Fanghua Lin at SUSTech
     * Geometry: Topology, Differential Geometry
     * Algebra: Abstract Algebra
-  * Course at UVA: Random Matrices (audit)
+  * Coursework at UVA: Random Matrices (audit)
 
 
 
