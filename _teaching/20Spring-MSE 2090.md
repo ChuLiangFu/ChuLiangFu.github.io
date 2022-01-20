@@ -9,4 +9,4 @@ location: "Charlottesville, US"
 ---
 
 This is an undergraduate course for materials science. The textbook is [here](https://www.amazon.com/Materials-Science-Engineering-William-Callister/dp/1118324579).
-I take over the grading and office hour to serve for the students. It's actually a good experience for me to prepare the qualify exam.
+I take over the grading and office hour to serve for the students. It's actually a good experience for me to prepare the qualify exam. As a result, one review is made for qualify exam and the whole materials science picture shared [\[here\]](http://ChuLiangFu.github.io/files/reivew for MSE.pdf).
