@@ -8,4 +8,5 @@ date: 2020-01-17
 location: "Charlottesville, US"
 ---
 
-This is a description of a teaching experience. 
+This is an undergraduate course for materials science. The textbook is [here](https://www.amazon.com/Materials-Science-Engineering-William-Callister/dp/1118324579).
+I take over the grading and office hour to serve for the students. It's actually a good experience for me to prepare the qualify exam.
