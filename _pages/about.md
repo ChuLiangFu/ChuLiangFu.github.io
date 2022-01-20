@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 I am a PhD candidate at the [University of Virginia](http://www.virginia.edu/), now working with [Prof. Bi-Cheng Zhou](https://engineering.virginia.edu/zhou-group). 
-Based on my calling, my current Servant Class is **Saber (Mathematics->Excalibur)->? Captain**.
+My current Servant Class is **Saber (Mathematics->Excalibur)->? Captain** based on the calling.
 
 Research Statements
 ---
