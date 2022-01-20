@@ -25,9 +25,6 @@ Research Experience
 
 Creations
 ======
-[//]: <> (<ul>{% for post in site.publications %})
-[//]: <> ({% include archive-single-cv.html %})
-[//]: <> ({% endfor %}</ul>)
 * First-Principle-based Modeling:
   * Kang Wang, Du Cheng, **Chu-Liang Fu**, and Bi-Cheng Zhou*, "First-principles investigation of the phase stability and early stages of precipitation in Mg-Sn alloys"  Physical Review Materials 4, 013606 (2020)
   * **Chu-Liang Fu**, Mingda Li* “Oscillatory deviations from Matthiessen’s rule due to interacting dislocations.” J. Phys. Condens Matter 29, 325702 (2017)
@@ -42,6 +39,12 @@ Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+
+
+Mentoring Students: 
+Yuanchen Gao: (for CALPHAD and CVM related project under NSF Career Award project) PHD student at CTKG
+Annika Szyniec (for NSF Career Award project supported undergraduate student) Undergraduate student at UVA MSE and CTKG
+
 
 
 Skills
@@ -86,8 +89,7 @@ Phase Transformations, Magnetism and Magnetic Materials
 
 Public Presentation
 ======
-
-
+* Poster: First-principles calculations and thermodynamics modeling of the Ca-Zn system The Minerals, Metals & Materials Society Annual Meeting 2022
 
 
 Honor & Award
