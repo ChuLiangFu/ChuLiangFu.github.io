@@ -13,6 +13,7 @@ Education
 ======
 * Ph.D in Materials Science, University of Virginia(UVA), 2023 (expected)
   * Advisor: Prof. Bi-Cheng Zhou
+  * My research is supported by NSF Career Award: [A Novel Computational Thermodynamics Framework with Intrinsic Chemical Short-Range Order]:(https://www.nsf.gov/awardsearch/showAward?AWD_ID=2042284)
 * B.S. in Mathematics and Applied Mathematics, Yunnan University(YNU), 2017
   * Thesis: Elliptic Partial Differential Equations: the Application of Calderón-Zygmund Lemma in Hölder Estimates
   * Advisor: Prof. Yuanhong Zhi & Prof. Zhou Wei
