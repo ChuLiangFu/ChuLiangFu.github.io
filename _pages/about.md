@@ -36,11 +36,11 @@ Broken Thoughts for Memory
 
 * 2022.02
 * 2021.10 Impressed by the presentation of professor Weinan E in Tsinghua University about the [algorithm era](https://www.bilibili.com/video/BV1Ph41187tU). One interesting thing is prof. E emphasis that ' the applied mathematics students must understand the realistic problem' which matches my original expectation to an engineering school as a math student.
-* 2021.09 Take some rest due to the health issue.
+* 2021.09 Take some rest due to the healthy issue(stomachache).
 * 2021.08 Participate the [deepmodeling hackathon 2021](https://gitee.com/deepmodelinghackathon/hackathon2021) without teammates...Maybe I should have one to really finish my idea in solid diffusion coefficient calculation. But it's interesting to learn more about deep modeling and know some friends.
 * 2021.07 Have many discussions about the future with some professor recently.
 * 2021.07 Start to participate [machine Learning and Scientific Applications seminars](https://c2sml.cn/index_en.html) hosted by professor weinan E.
-* 2021.06 Pass the dissertaion proposal defense. Thanks to my committee members: Professor Sean Agnew for Chair, my advisor Professor Bi-Cheng Zhou, Professor Zhigilei for advice from atomistic simulation, Professor Tao Sun for advice from experimental verification, Professor Kolomeisky from physics department for advice from statistical physics, Professor Mingda Li for advice from experiments and data-driven methods.
+* 2021.06 Pass the dissertaion proposal defense. Thanks to my committee members: Professor Sean Agnew for Chair, my advisor Professor Bi-Cheng Zhou, Professor Zhigilei for advice from atomistic simulation, Professor Tao Sun for advice from experimental verification, Professor Kolomeisky from physics department for advice from statistical physics, Professor Mingda Li from MIT for advice from experiments and data-driven methods.
 * 2021.06 Impressed by prof. E's [AI for science](https://www.bilibili.com/video/BV1Kf4y1a7pe) presentation.
 * 2021.06 Take the IBM quantum challenge and got advanced Achievement, quantum computing is interesting for me and I am considering to take use of the power of it for future simulation, but maybe not near future.
 * 2021.04 Impressed(or actually depressed?) by professor weinan E's perspective: [The Dawning of a New Era in Applied Mathematics](https://www.ams.org/journals/notices/202104/rnoti-p565.pdf). A little bit lost but start to reconsider the whole plan for my research or next step, try to adjust all my plan for the future.
