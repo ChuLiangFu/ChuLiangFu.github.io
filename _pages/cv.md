@@ -42,8 +42,8 @@ Teaching
 
 
 Mentoring Students: 
-Yuanchen Gao: (for CALPHAD and CVM related project under NSF Career Award project) PHD student at CTKG
-Annika Szyniec (for NSF Career Award project supported undergraduate student) Undergraduate student at UVA MSE and CTKG
+* Yuanchen Gao: (for CALPHAD and CVM related project under NSF Career Award project) PHD student at CTKG
+* Annika Szyniec (for NSF Career Award project supported undergraduate student) Undergraduate student at UVA MSE and CTKG
 
 
 
