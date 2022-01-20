@@ -96,7 +96,7 @@ Public Presentation
 Honor & Award
 ======
 * 2021.06 IBM Quantum Challenge 2021 Achievement - Advanced
-* 2016.06 20th Wu Daguan Scholarship of Yunnan University which honors TOP160 students in history, biology, physics, mathematics and chemistry.
+* 2016.06 20th Wu Daguan Scholarship of Yunnan University.
 
 
 
