@@ -62,7 +62,7 @@ Selected Coursework
   * Coursework at UVA: 
     * Fundamental Physics-driven modeling: Statistical Mechanics, Quantum Electronics(audit)
     * Materials Science-driven modeling: Electronic and Crystal Structure of Materials (Symmetry), Defects and Microstructure in Materials (Broken Symmetry), Thermodynamics and Phase Equilibria of Materials (Equilibrium), Kinetics of Transport and Transformations in Materials (Transformation)
-  * Coursework at Coursera: Density Functional Theory, Introduction to Quantum Computing(In progress)
+  * Coursework at Coursera: Density Functional Theory
 
 * Data-Driven Method:
   * Coursework at YNU: Mathematical Statistics, Pattern Recognition
