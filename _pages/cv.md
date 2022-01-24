@@ -71,7 +71,7 @@ Selected Coursework
 
 * Algorithms:
   * Coursework at YNU: Mathematical Experiment, Numerical Method and its Experiments, Operation Research and its Experiments, Algorithm and Graph Theory and its Experiments, Numerical Solution of Differential Equation
-  * Coursework at UVA: Introduction to Atomistic Simulations, Convex Optimization for Engineering & Data Science, Design and Analysis of Algorithms(In progress), Introduction to Uncertainty Quantification(In progress)
+  * Coursework at UVA: Introduction to Atomistic Simulations, Convex Optimization for Engineering & Data Science, Design and Analysis of Algorithms(In progress)
   * Coursework at Coursera: Fundamentals of Parallelism on Intel Architecture(In progress)
 
 * Specialized Materials Domain (at UVA):
