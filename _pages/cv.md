@@ -21,7 +21,7 @@ Education
 Research Experience
 ======
 * 2018-: Research Assistant @Computational Thermodynamics and Kinetics Group 
-  * Supervisor: Bi-Cheng Zhou
+  * Supervisor: Prof. Bi-Cheng Zhou
   
 
 Creations
@@ -49,7 +49,7 @@ Mentoring Students:
 
 
 K-12 Mathematics Teaching Internship:
-2017.03 Yunnan University Secondary SchoolYunnan University Secondary School
+* 2017.03 Yunnan University Secondary SchoolYunnan University Secondary School
 
 
 
