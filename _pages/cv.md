@@ -48,6 +48,11 @@ Mentoring Students:
 
 
 
+K-12 Mathematics Teaching Internship:
+2017.03 Yunnan University Secondary SchoolYunnan University Secondary School
+
+
+
 Skills
 ======
 * Programming: MATLAB/Python, Fortran/C++, Java
