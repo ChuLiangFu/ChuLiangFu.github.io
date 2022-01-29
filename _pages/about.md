@@ -34,7 +34,7 @@ I have abundant interests in **Computational Materials Science** and **Applied M
 Broken Thoughts for Memory
 ---
 comming soon:
-2022.02 present at quamtum measurement group for introducing persistent homology
+2022.02 would present at [quamtum measurement group meeting](https://qm.mit.edu/) about persistent homology
 2022.03 poster at TMS2022
 
 
