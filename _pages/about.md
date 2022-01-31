@@ -38,9 +38,9 @@ comming soon:
 2022.03 poster at TMS2022
 
 
-Well, I am always trying to imagine I am a historian in ancient China...
+Well, I am always trying to imagine I am just a historian living in ancient China...
 
-* 2021.01 Participate Generative Art from MIT IAP Workshop: https://gvarnavides.com/generative-art-workshop-website/, have learned some interesting with Nina, Jovana and Georgios!
+* 2021.01 Participate Generative Art from MIT IAP Workshop: https://gvarnavides.com/generative-art-workshop-website/, have learned something interesting with Nina, Jovana and Georgios!
 * 2021.01 Move this homepage from google site to github page.
 * 2021.10 Impressed by the presentation of professor Weinan E in Tsinghua University about the [algorithm era](https://www.bilibili.com/video/BV1Ph41187tU). One interesting thing is prof. E emphasis that *the applied mathematics people must understand the realistic problem* which matches my original expectation to enter into an engineering school as an undergraduate math student. 
 * 2021.09 Take some rest due to the healthy issue(stomachache).
