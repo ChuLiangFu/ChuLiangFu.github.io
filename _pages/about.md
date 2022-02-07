@@ -13,7 +13,7 @@ My current Servant Class is **Saber (Mathematics->Excalibur)->? Captain** based 
 
 Research Statements
 ---
-I have abundant interests in **Computational Materials Science** and **Applied Mathematics**. My research interests varies from pure mathematics to applied mathematics and applicable physical science such as materials science when I was a junior student in my undergraduate school. Though I am impressed by partial differential equations and geometry&topology during my undergraduate years, some physics related research experience(quantization of dislocations) and the great Chia-Chiao Lin's landmark pioneer contribtions in applied mathematics attracts me. Recent years, I am activated by prof. Weinan E's vision to explore the [new era in applied mathematics](https://www.ams.org/notices/202104/rnoti-p565.pdf) with coherently integrating first-principle modelings, data-driven method, algorithms & fundamental mathematics & domain knowledge: physics led materials science.
+I have abundant interests in **Applied Mathematics** with **Computational Materials Science** as the training domain. My research interests varies from pure mathematics to applied mathematics and applied science when I was a junior student in my undergraduate school. Though I am impressed by partial differential equations and geometry&topology during my undergraduate years, some physics related research experience(quantization of dislocations) and the great Chia-Chiao Lin's landmark pioneer contribtions in applied mathematics attracts me. Recent years, I am activated by prof. Weinan E's vision to explore the [new era in applied mathematics](https://www.ams.org/notices/202104/rnoti-p565.pdf) with coherently integrating first-principle modelings, data-driven method, algorithms & fundamental mathematics & domain knowledge: physics led materials science.
 
 
 * Local-Global:
@@ -24,11 +24,20 @@ I have abundant interests in **Computational Materials Science** and **Applied M
   
 * disorder and random:
   * complex system
+  * stochastic analysis
 
 
 * Blur the boundary between Informatic and Physical Science:
-  * classic computing, thermodynamic computing, quantum computing
-  * make materials computable?
+  * classic computing, thermodynamic computing, quantum computing's integration
+  * make materials computable? 
+  * Brain-inspired Tech
+ 
+ 
+* Application for future:
+  * Medical-led physics/materials
+  * Next-generation computing
+  * Energy and Space
+
 
 
 Broken Thoughts for Memory
