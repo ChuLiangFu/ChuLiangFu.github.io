@@ -42,15 +42,11 @@ I have abundant interests in **Applied Mathematics** with **Computational Materi
 
 Broken Thoughts for Memory
 ---
-comming soon:
-
-2022.03 poster at TMS2022
-
 
 Well, I am always trying to imagine I am just a historian living in ancient China...
 
 * 2022.06 would visist quantum measurement group at MIT.
-* 2022.02 poster at TMS2022
+* 2022.03 poster at TMS2022
 * 2022.02 give a presenationt at quamtum measurement group meeting about applying persistent homology
 * 2022.01 Participate Generative Art from MIT IAP Workshop: https://gvarnavides.com/generative-art-workshop-website/, have learned something interesting with Nina, Jovana and Georgios!
 * 2022.01 Move this homepage from google site to github page.
