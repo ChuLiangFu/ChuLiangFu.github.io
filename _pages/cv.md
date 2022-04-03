@@ -55,7 +55,7 @@ K-12 Mathematics Teaching Internship:
 Skills
 ======
 * Programming: MATLAB/Python, Fortran/C++, Java
-* Software/Package: Thermo-Calc for CALPHAD, VASP for DFT, DeePMD/LAMMPS for MD, Pytorch for deep learning, scikit-tda for TDA, Qiskit for NISQ-era quantum computing, Mathematica, LaTeX
+* Software/Package: Thermo-Calc for CALPHAD, VASP for DFT, Pytorch for deep learning, scikit-tda for TDA, Qiskit for NISQ-era quantum computing, Mathematica, LaTeX
 * Language: Chinese, English
 
 
