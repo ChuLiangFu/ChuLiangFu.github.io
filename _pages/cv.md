@@ -71,7 +71,7 @@ Selected Coursework
 * Data-Driven Method:
   * Coursework at YNU: Mathematical Statistics, Pattern Recognition
   * Coursework at UVA: Geometry of Data, Graph Mining(audit), interpretable machine learning(audit in progress)
-  * Coursework at Coursera: Introduction to Machine Learning, Bayesian Methods for Machine Learning(In progress)
+  * Coursework at Coursera: Introduction to Machine Learning(In progress)
 
 * Algorithms:
   * Coursework at YNU: Mathematical Experiment, Numerical Method and its Experiments, Operation Research and its Experiments, Algorithm and Graph Theory and its Experiments, Numerical Solution of Differential Equation
