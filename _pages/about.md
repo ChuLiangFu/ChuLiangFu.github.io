@@ -18,12 +18,15 @@ I have abundant interests in **Applied Mathematics** with **Computational Materi
 
 * Local-Global:
   * Mathematical principle for Solid solution thermodynamics: combine cluster-based statistical mechanics with CALPHAD to quantify the short-range order.
-  * multiscale modeling:
+  * multiscale modeling: Time-dependent measurement for rare event?
   * Topological analysis:
   
   
 * disorder and random:
   * complex system
+
+* quantum resource:
+  * quantum entanglement
 
 
 
@@ -33,6 +36,8 @@ Broken Thoughts for Memory
 
 Well, I am always trying to imagine I am just a historian living in ancient China...
 
+* 2022.02 have (very very) large probability to join quantum measurement group at MIT for my next stop.
+* 2022.02 was awarded STT (Stiftelsen för Tillämpad Termodynamik) scholarship from the Foundation for Applied Thermodynamics in Sweden for CALPHAD2023 conference.
 * 2022.07-08 visist quantum measurement group at MIT.
 * 2022.03 poster at TMS2022.
 * 2022.02 give a presenationt at quamtum measurement group meeting about applying persistent homology.
