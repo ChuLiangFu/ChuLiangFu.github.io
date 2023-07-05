@@ -101,6 +101,8 @@ Public Presentation
 
 Honor & Award
 ======
+* 2023.06 FactSage Best Student Poster Award @50th International Conference on Computer Coupling of Phase Diagrams and Thermochemistry 2023
+* 2023.02 STT (Stiftelsen för Tillämpad Termodynamik) scholarship from the Foundation for Applied Thermodynamics in Sweden
 * 2021.06 IBM Quantum Challenge 2021 Achievement - Advanced
 * 2016.06 20th Wu Daguan Scholarship of Yunnan University.
 
