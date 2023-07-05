@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Materials Science, University of Virginia(UVA), 2023 (expected)
+* Ph.D in Materials Science, University of Virginia(UVA), 2023
   * Advisor: Prof. Bi-Cheng Zhou
   * My research is supported by NSF Career Award: [A Novel Computational Thermodynamics Framework with Intrinsic Chemical Short-Range Order](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2042284)
 * B.S. in Mathematics and Applied Mathematics, Yunnan University(YNU), 2017
@@ -94,7 +94,9 @@ Phase Transformations, Magnetism and Magnetic Materials
 
 Public Presentation
 ======
-* Poster: First-principles calculations and thermodynamics modeling of the Ca-Zn system The Minerals, Metals & Materials Society Annual Meeting 2022
+* Poster: "A Cluster-Based Computational Thermodynamics Framework with Intrinsic Chemical Short-Range Order: Applications to Prototype Systems" @Gorden Reserach Conference Physical Metallurgy 2023
+* Poster: "A Cluster-Based Computational Thermodynamics Framework with Intrinsic Chemical Short-Range Order: Applications to Prototype Systems" @50th International Conference on Computer Coupling of Phase Diagrams and Thermochemistry 2023
+* Poster: "First-principles calculations and thermodynamics modeling of the Ca-Zn system @The Minerals", Metals & Materials Society Annual Meeting 2022
 
 
 Honor & Award
