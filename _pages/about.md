@@ -32,8 +32,8 @@ I have abundant interests in **Applied Mathematics** with **Computational Materi
 
 
 
-
-Memo for milestone：
+Memo for Milestone:
+---
 7/21/2023: Pass the Ph.D. defense.
 
 
