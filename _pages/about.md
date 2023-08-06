@@ -26,7 +26,7 @@ I have abundant interests in **Applied Mathematics** with **Computational Materi
   * Disorder within Quantum.
 
 * Representations：
-  * Mathematical principle for Solid solution thermodynamics: free energy representations.
+  * Mathematical principle for Solid solution thermodynamics: free energy representations with CALPHAD.
  
 * Transport:
   * Quantum transport with defects.
