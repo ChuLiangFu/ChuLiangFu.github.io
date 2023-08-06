@@ -18,15 +18,18 @@ I have abundant interests in **Applied Mathematics** with **Computational Materi
 
 * Local-Global:
   * Mathematical principle for Solid solution thermodynamics: combine cluster-based statistical mechanics with CALPHAD to quantify the short-range order.
-  * multiscale modeling: Time-dependent measurement for rare event?
+  * multiscale modeling: Time-dependent measurement for rare events?
   * Topological analysis: Topological Data Analysis
-  
-  
-* disorder and random:
-  * complex system
 
-* quantum resource:
-  * quantum entanglement
+* disorder and random:
+  * Mathematical principle for Solid solution thermodynamics: quantify Disordered solid solution with the probabilistic spectrum.
+  * Disorder within Quantum.
+
+* Representations：
+  * Mathematical principle for Solid solution thermodynamics: free energy representations.
+ 
+* Transport:
+  * Quantum transport with defects.
 
 
 
