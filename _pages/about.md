@@ -17,7 +17,7 @@ I have abundant interests in **Applied Mathematics** with **Computational Materi
 
 
 
-* ``disorder" and ``random"(where science happens): perform the quantification with some ``troublemakers".
+* "disorder" and "random"(where science happens): perform the quantification with some "troublemakers".
   * Mathematical principle for Solid solution thermodynamics: quantify Disordered solid solution with the probabilistic spectrum.
   * Disorder within Quantum.
 
