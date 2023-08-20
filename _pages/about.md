@@ -8,29 +8,31 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD candidate at the [University of Virginia](http://www.virginia.edu/), now working with [Prof. Bi-Cheng Zhou](https://engineering.virginia.edu/zhou-group). 
-My current Servant Class is **Saber (Mathematics->Excalibur)->?** based on the calling.
+I got my PhD at the [University of Virginia](http://www.virginia.edu/), under the supervision of [Prof. Bi-Cheng Zhou](https://engineering.virginia.edu/zhou-group), I will join the Quantum Measurement Group at MIT as a Postdoc researcher. I am actively looking for my future academic position after my Postdoc appointment.  
+My current Servant Class is **Saber-Framer (Mathematics->Excalibur)** based on the calling.
 
 Research Statements
 ---
-I have abundant interests in **Applied Mathematics** with **Computational Materials Science** as the training domain. My research interests varies from pure mathematics to applied mathematics and applied science when I was a junior student in my undergraduate school. Though I am impressed by partial differential equations and geometry&topology during my undergraduate years, some physics related research experience(quantization of dislocations) and the great Chia-Chiao Lin's landmark pioneer contribtions in applied mathematics attracts me. Recent years, I am activated by prof. Weinan E's vision to explore the [new era in applied mathematics](https://www.ams.org/notices/202104/rnoti-p565.pdf) with coherently integrating first-principle modelings, data-driven method, algorithms & fundamental mathematics & domain knowledge: physics led materials science.
+I have abundant interests in **Applied Mathematics** with **Computational Materials Science** as the training domain. My research interests varies from pure mathematics to applied mathematics and applied science when I was a junior student in my undergraduate school. Though I am impressed by partial differential equations and geometry&topology during my undergraduate years, some physics-related research experience(quantization of dislocations) and the great Chia-Chiao Lin's landmark pioneer contributions in applied mathematics attract me. In recent years, I am activated by Prof. Weinan E's vision to explore the [new era in applied mathematics](https://www.ams.org/notices/202104/rnoti-p565.pdf) with coherently integrating first-principle modelings, data-driven methods, algorithms & fundamental mathematics & domain knowledge: physics led materials science. I am specifically interested in performing the quantification under sophisticated circumstances.
 
 
-* Local-Global:
+
+* ``disorder" and ``random"(where science happens): perform the quantification with some ``troublemakers".
+  * Mathematical principle for Solid solution thermodynamics: quantify Disordered solid solution with the probabilistic spectrum.
+  * Disorder within Quantum.
+
+* Transport(algebra): quantify how changes happen when time is flying.
+  * Quantum transport with defects.
+  * Materials transformation with different transport.
+
+* Correlation(geometry): quantify how things organize and correlate and when scales/spatial changes happen.
   * Mathematical principle for Solid solution thermodynamics: combine cluster-based statistical mechanics with CALPHAD to quantify the short-range order.
   * multiscale modeling: Time-dependent measurement for rare events?
   * Topological analysis: Topological Data Analysis
 
-* disorder and random:
-  * Mathematical principle for Solid solution thermodynamics: quantify Disordered solid solution with the probabilistic spectrum.
-  * Disorder within Quantum.
-
-* Representations：
+* Representations(Every good theory is a successful representation)： characterize and represent abstract/difficulty observed in a structured way, for better quantification.
   * Mathematical principle for Solid solution thermodynamics: free energy representations with CALPHAD.
- 
-* Transport:
-  * Quantum transport with defects.
-
+  * X-Ray
 
 
 
