@@ -94,9 +94,10 @@ Phase Transformations, Magnetism and Magnetic Materials
 
 Public Presentation
 ======
-* Poster: "A Cluster-Based Computational Thermodynamics Framework with Intrinsic Chemical Short-Range Order: Applications to Prototype Systems" @Gorden Reserach Conference Physical Metallurgy 2023
-* Poster: "A Cluster-Based Computational Thermodynamics Framework with Intrinsic Chemical Short-Range Order: Applications to Prototype Systems" @50th International Conference on Computer Coupling of Phase Diagrams and Thermochemistry 2023
-* Poster: "First-principles calculations and thermodynamics modeling of the Ca-Zn system @The Minerals", Metals & Materials Society Annual Meeting 2022
+* Oral: "A Cluster-Based Computational Thermodynamics Framework with Intrinsic Chemical Short-Range Order: Applications to Prototype Systems" @ACS Fall 2023, a substitute 15-minute talk given due to the original talk was canceled.
+* Poster: "A Cluster-Based Computational Thermodynamics Framework with Intrinsic Chemical Short-Range Order: Applications to Prototype Systems" @Gorden Research Conference Physical Metallurgy 2023.
+* Poster: "A Cluster-Based Computational Thermodynamics Framework with Intrinsic Chemical Short-Range Order: Applications to Prototype Systems" @50th International Conference on Computer Coupling of Phase Diagrams and Thermochemistry 2023.
+* Poster: "First-principles calculations and thermodynamics modeling of the Ca-Zn system @The Minerals", Metals & Materials Society Annual Meeting 2022.
 
 
 Honor & Award
