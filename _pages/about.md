@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 I got my PhD at the [University of Virginia](http://www.virginia.edu/), under the supervision of [Prof. Bi-Cheng Zhou](https://engineering.virginia.edu/zhou-group), I will join the Quantum Measurement Group at MIT as a Postdoc researcher. I am actively looking for my future academic position after my Postdoc appointment.  
-My current Servant Class is **Saber-Framer (Mathematics->Excalibur)** based on the calling.
+My current Servant Class is **Saber#Framer (Mathematics->Excalibur)** based on the calling.
 
 Research Statements
 ---
