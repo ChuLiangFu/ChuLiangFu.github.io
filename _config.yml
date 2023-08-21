@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Chu-Liang Fu's F2A"
 title_separator          : "-"
 name                     : &name "Chu-Liang Fu"
-description              : &description "PhD condidate@UVA"
+description              : &description "Postdoc@MIT, PhD@UVA"
 url                      : https://ChuLiangFu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Chu-Liang Fu"
   avatar           : "abf69144e1f9f5fb451a0382ae61dfb1_hd.jpg"
-  bio              : "PhD candidate @UVA"
-  location         : "Charlottesvile"
+  bio              : "Postdoc@MIT, PhD@UVA"
+  location         : "Boston"
   employer         :
   pubmed           :
   googlescholar    :
