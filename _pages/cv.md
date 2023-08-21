@@ -20,7 +20,7 @@ Education
 
 Research Experience
 ======
-* 2018-: Research Assistant @Computational Thermodynamics and Kinetics Group 
+* 2018-2023: Research Assistant @Computational Thermodynamics and Kinetics Group 
   * Supervisor: Prof. Bi-Cheng Zhou
   
 
