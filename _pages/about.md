@@ -17,20 +17,20 @@ I have abundant interests in **Applied Mathematics** with **Computational Materi
 
 
 
-* "disorder" and "random"(where science happens): perform the quantification with some "troublemakers".
+* Focus, handle "disorder" and "random"(where science happens): perform the quantification of the "troublemakers" for optimization/design.
   * Mathematical principle for Solid solution thermodynamics: quantify Disordered solid solution with the probabilistic spectrum.
   * Disorder within Quantum.
 
-* Transport(algebra): quantify how changes happen when time is flying.
+* Time-dependence, Transport(algebra): quantify how changes happen with time.
   * Quantum transport with defects.
   * Materials transformation with different transport.
 
-* Correlation(geometry): quantify how things organize and correlate and when scales/spatial changes happen.
+* Spatial-dependence, Correlation(geometry): quantify how things organize and correlate and when scales/spatial changes happen.
   * Mathematical principle for Solid solution thermodynamics: combine cluster-based statistical mechanics with CALPHAD to quantify the short-range order.
-  * multiscale modeling: Time-dependent measurement for rare events?
+  * Multiscale modeling: Time-dependent measurement for rare events?
   * Topological analysis: Topological Data Analysis
 
-* Representations(Every good theory is a successful representation)： characterize and represent abstract/difficulty observed in a structured way, for better quantification.
+* Information disclosure, Representations： characterize and represent abstract/difficulty observed in a structured way, for better quantification.
   * Mathematical principle for Solid solution thermodynamics: free energy representations with CALPHAD.
   * X-Ray
 
