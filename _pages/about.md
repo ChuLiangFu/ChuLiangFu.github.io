@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 I got my PhD at the [University of Virginia](http://www.virginia.edu/), under the supervision of [Prof. Bi-Cheng Zhou](https://engineering.virginia.edu/zhou-group), I will join the Quantum Measurement Group at MIT as a Postdoc researcher. I am actively looking for my future academic position after my Postdoc appointment.  
-My current Servant Class is **Saber#Framer (Mathematics->Excalibur)** based on the calling.
+My current Servant Class is **Saber X Framer (Mathematics->Excalibur)** based on the calling.
 
 Research Statements
 ---
@@ -17,9 +17,13 @@ I have abundant interests in **Applied Mathematics** with **Computational Materi
 
 
 
-* Focus, handle "disorder" and "random"(where science happens): perform the quantification of the "troublemakers" for optimization/design.
+* Focus, handle "disorder"/"random"(where science happens): perform the quantification of the "troublemakers" for optimization/design.
   * Mathematical principle for Solid solution thermodynamics: quantify Disordered solid solution with the probabilistic spectrum.
   * Disorder within Quantum.
+
+* Information disclosure, Representations： characterize and represent abstract/difficulty observed in a structured way, for better quantification.
+  * Mathematical principle for Solid solution thermodynamics: free energy representations with CALPHAD.
+  * X-Ray Characterization
 
 * Time-dependence, Transport(algebra): quantify how changes happen with time.
   * Quantum transport with defects.
@@ -30,9 +34,7 @@ I have abundant interests in **Applied Mathematics** with **Computational Materi
   * Multiscale modeling: Time-dependent measurement for rare events?
   * Topological analysis: Topological Data Analysis
 
-* Information disclosure, Representations： characterize and represent abstract/difficulty observed in a structured way, for better quantification.
-  * Mathematical principle for Solid solution thermodynamics: free energy representations with CALPHAD.
-  * X-Ray
+
 
 
 
