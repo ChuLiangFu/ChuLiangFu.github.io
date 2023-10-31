@@ -25,12 +25,12 @@ I have abundant interests in **Applied Mathematics** with **Computational Materi
   * Mathematical principle for Solid solution thermodynamics: free energy representations with CALPHAD.
   * X-Ray Characterization
 
-* Time-dependence, Transport(algebra): quantify how changes happen with time.
+* Time-Transport(algebra): quantify how changes happen with time.
   * Transport with defects.
   * Materials transformation with multiple transports.
 
-* Spatial-dependence, Correlation(geometry): quantify how things organize and correlate and when scales/spatial changes happen.
-  * Mathematical principle for Solid solution thermodynamics: combine cluster-based statistical mechanics with CALPHAD to quantify the short-range order.
+* Spatial-Invariance(geometry): quantify how the natural keeps the invariance and correlates under the scales/spatial/structure transformation.
+  * Mathematical principle for Solid solution thermodynamics: combine cluster-based statistical mechanics with CALPHAD to quantify the short-range order for the phase stability.
   * Multiscale modeling: Time-dependent measurement for rare events?
   * Topological analysis: Topological Data Analysis
 
