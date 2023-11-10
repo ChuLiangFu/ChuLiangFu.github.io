@@ -29,7 +29,7 @@ I have abundant interests in **Applied Mathematics** with **Computational Materi
   * Transport with defects.
   * Materials transformation with multiple transports.
 
-* Spatial-Invariance(geometry): quantify how the natural keeps the invariance and correlates under the scales/spatial/structure transformation.
+* Spatial-Stability(geometry): quantify how the natural keeps the invariance and correlates under the scales/spatial/structure transformation.
   * Mathematical principle for Solid solution thermodynamics: combine cluster-based statistical mechanics with CALPHAD to quantify the short-range order for the phase stability.
   * Multiscale modeling: Time-dependent measurement for rare events?
   * Topological analysis: Topological Data Analysis
