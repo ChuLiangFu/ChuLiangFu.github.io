@@ -15,7 +15,7 @@ Research Statements
 ---
 I am interested in various topics within **Theoretical/Computational Materials Science** under the philosophy of **Applied Mathematics**. My research interests varied from pure mathematics to applied mathematics and applied science when I was a junior student in my undergraduate school. Though I was impressed by partial differential equations, geometry, and topology during my undergraduate years, some physics-related research experience(quantization of dislocations) and the great Chia-Chiao Lin's landmark pioneer contributions in applied mathematics attracted me. In recent years, I have been activated by Prof. Weinan E's vision to explore the [new era in applied mathematics](https://www.ams.org/notices/202104/rnoti-p565.pdf) with coherently integrating first-principle modelings, data-driven methods, algorithms & fundamental mathematics & domain knowledge: physics led materials science. 
 
-My interests could be summarized as the spanned space of {"Imperfection", "Representations", "Transport", and "Stability"}, which I would like to explain more in future statements. Some of my current projects involve heat transport, neutron/x-ray scattering, quantum dots, mesoscale defects, nucleation theory, and thermodynamic stability.
+My interests could be summarized as the spanned space of {"Imperfection", "Representations", "Transport", and "Stability"}, which I would like to explain more in future statements. Some of my current projects involve heat transport, neutron/x-ray scattering, data-driven spectroscopy, quantum dots, mesoscale defects, and thermodynamic stability.
 
 
 Memo for Milestone:
