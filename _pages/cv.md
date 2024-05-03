@@ -56,6 +56,7 @@ Skills
 
 Public Presentation
 ======
+* Presentation: "Characterize the delicacy with the “imperfection” through Thermodynamics, Transport, and Spectroscopy" @Chemistry department of Emory University at the end of Feb.2024, a 60-minute talk given during the visit within Prof. Yao Wang's group.
 * Oral: "A Cluster-Based Computational Thermodynamics Framework with Intrinsic Chemical Short-Range Order: Applications to Prototype Systems" @ACS Fall 2023, a substitute 15-minute talk given with the invitation from the organizer due to the original talk was canceled.
 * Poster: "A Cluster-Based Computational Thermodynamics Framework with Intrinsic Chemical Short-Range Order: Applications to Prototype Systems" @Gorden Research Conference Physical Metallurgy 2023.
 * Poster: "A Cluster-Based Computational Thermodynamics Framework with Intrinsic Chemical Short-Range Order: Applications to Prototype Systems" @50th International Conference on Computer Coupling of Phase Diagrams and Thermochemistry 2023.
