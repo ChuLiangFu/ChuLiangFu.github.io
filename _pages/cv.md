@@ -23,19 +23,8 @@ Research Experience
 * 2018-2023: Research Assistant @Computational Thermodynamics and Kinetics Group 
   * Supervisor: Prof. Bi-Cheng Zhou
   
-
-Creations
-======
-* First-Principle-based Modeling:
-  * Kang Wang, Du Cheng, **Chu-Liang Fu**, and Bi-Cheng Zhou*, "First-principles investigation of the phase stability and early stages of precipitation in Mg-Sn alloys"  Physical Review Materials 4, 013606 (2020)
-  * **Chu-Liang Fu**, Mingda Li* “Oscillatory deviations from Matthiessen’s rule due to interacting dislocations.” J. Phys. Condens Matter 29, 325702 (2017)
-
-* Data-Driven Methods:
-
-* Algorithms:
-
   
-Teaching
+Teaching Experience
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
