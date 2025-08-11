@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 I am a Postdoc Associate of the [Quantum Measurement Group](http://qm.mit.edu) at MIT. I got my PhD at the [University of Virginia](http://www.virginia.edu/), under the supervision of [Prof. Bi-Cheng Zhou](https://engineering.virginia.edu/zhou-group) where I created a cluster-based thermodynamics framework that benefits computational thermodynamics. I am actively looking for my future academic position after my current Postdoc appointment to continue further exploring diverse applied sciences such as materials science/mechanical engineering/nuclear science/applied physics/chemical engineering with my applied mathematics style.  
-My current Servant Class is **Framer X Saber (Mathematics->Excalibur)** based on the calling: to build up the theoretical/computational **frame**work for applied science with the power of mathematics. 
+My current Servant Class is **Framer X Saber (Mathematics->Excalibur)** based on the calling: to build up the theoretical/computational **frame**work for applied science with the power of mathematics. [\[A piece of slides of my JOB TALK is shared here\]](http://ChuLiangFu.github.io/files/Job talk organized.pdf).
 
 Research Statements
 ---
