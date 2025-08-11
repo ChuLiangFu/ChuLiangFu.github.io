@@ -23,7 +23,7 @@ Memo for Milestone:
 * 9/1/2023: Start the Postdoc appointment at Quantum Measurement Group of MIT.
 * 7/21/2023: Pass the Ph.D. defense.
 
-final updated: 01/2025
+final updated: 08/2025
 
 
 
